@@ -14,6 +14,6 @@ Frontend 공부 관련 코드들을 기록합니다.
 
 ## Typescript/React
 
-| Title                                                                       | Date                 | Description               |
-|:----------------------------------------------------------------------------|:---------------------|:--------------------------|
-| [pnpm](https://github.com/KIMSEI1124/frontend_in_action/tree/ts/react/pnpm) | 2024.04.12 - forever | `pnpm` 패키지 관리 도구를 사용해봅니다. |
+| Title                                                                       | Date                    | Description               |
+|:----------------------------------------------------------------------------|:------------------------|:--------------------------|
+| [pnpm](https://github.com/KIMSEI1124/frontend_in_action/tree/ts/react/pnpm) | 2024.04.12 - 2024.04.12 | `pnpm` 패키지 관리 도구를 사용해봅니다. |
